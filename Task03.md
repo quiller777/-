@@ -44,13 +44,9 @@ import seaborn as sns
 **定义:**
 设 $A$ 与 $B$ 是基本空间 $\Omega$ 中的两个事件,且 $P(B)>0$,在事件 $B$ 已发生的条件下, 事件 $A$ 的条件概率 $P(A \mid B)$ 定义为 $P(A B) / P(B)$, 即
 
-$$
+$
 P(A \mid B)=\frac{P(A B)}{P(B)}
-
-
-
-
-$$
+$
 
 其中 $P(A \mid B)$ 也称为给定事件 $B$ 下事件 $A$ 的条件概率。
 
